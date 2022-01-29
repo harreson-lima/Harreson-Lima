@@ -9,7 +9,7 @@
 - 📫 You can reach me by the email <a href=”mailto:contatoharresonlima@gmai.com”>contatoharresonlima@gmai.com</a> and my [LinkedIn](https://www.linkedin.com/in/harreson-lima/) 
 - 😄 Pronouns: He/Him
 - 💡 Fun fact: I LOVE animes
-- 👨‍💻 feel free to collaborate and to a star in my repos
+- 👨‍💻 Be free to collaborate and star my repos
 
 <br/>
 <h2 align="center">Languages and Tools</h2>
