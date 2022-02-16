@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /><br>
 
 - 🔭 I’m currently working on building my projects
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> and <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> and <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 - 💬 Ask me about everything you want
 - 📫 You can reach me by the email <a href=”mailto:contatoharresonlima@gmai.com”>contatoharresonlima@gmai.com</a> and my [LinkedIn](https://www.linkedin.com/in/harreson-lima/) 
 - 😄 Pronouns: He/Him
