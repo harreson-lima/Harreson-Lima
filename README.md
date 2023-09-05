@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, Harreson here 👋</h1>
 <br>
-<p >I’m 24 years old, an undergraduate of System Analisis from the <a href="http://www.utfpr.edu.br/">Technological Federal University of Paraná</a>. I’m a Junior Front End developer from Brazil, be free to make a network with me 😃.</p><br>
+<p >I’m 25 years old, an undergraduate of System Analisis from the <a href="https://www.uninter.com">Uninter</a>. I’m a Junior Android developer from Brazil, be free to make a network with me 😃.</p><br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /><br>
 
 - 🔭 I’m currently working on building my projects
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> and <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+- 🌱 I’m currently learning Android development with Kotlin
 - 💬 Ask me about everything you want
-- 📫 You can reach me by the email <a href=”mailto:contatoharresonlima@gmai.com”>contatoharresonlima@gmai.com</a> and my [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/harresonlima/) 
+- 📫 You can reach me by the email <a href=”mailto:contatoharresonlima@gmai.com”>contatoharresonlima@gmai.com</a> and my <a href="https://www.linkedin.com/in/harresonlima">LinkedIn</a>
 - 😄 Pronouns: He/Him
-- 💡 Fun fact: I LOVE animes, animals, photograph and much more...
-- 👨‍💻 Be free to collaborate and star my repos
+- 💡 Fun fact: I LOVE movies, animals, photograph, art and much more...
+- 👨‍💻 Be free to collaborate
 
 <br/>
 <h2 align="center">Languages and Tools</h2>
