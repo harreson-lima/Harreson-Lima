@@ -28,5 +28,5 @@
   <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
 </div><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Harreson-Lima"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harreson-Lima">
+<img src="https://github-readme-stats.vercel.app/api?username=harreson-lima"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harreson-lima">
