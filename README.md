@@ -9,8 +9,8 @@
 - 💬 Ask me about everything you want
 - 📫 You can reach me by the email <a href=”mailto:contatoharresonlima@gmai.com”>contatoharresonlima@gmai.com</a> and my <a href="https://www.linkedin.com/in/harresonlima">LinkedIn</a>
 - 😄 Pronouns: He/Him
-- 💡 Fun fact: I LOVE movies, animals, photograph, art and much more...
-- 👨‍💻 Be free to collaborate
+- 💡 Fun fact: I'm just a guy who likes to try a bunch of different things and have fun with them.
+- 👨‍💻 Be free to contact me
 
 <br/>
 <h2 align="center">Languages and Tools</h2>
