@@ -4,8 +4,6 @@
 <p >I’m 26 years old, I’m a Junior Front End developer from Brazil, be free to make a network with me 😃.</p><br>
 <img align="right" width="400px" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /><br>
 
-- 🔭 I’m currently working on building my projects 
-- 🌱 I’m currently learning Front End development
 - 💬 Ask me about everything you want
 - 📫 You can reach me by the email <a href=”mailto:contatoharresonlima@gmai.com”>contatoharresonlima@gmai.com</a> and my <a href="https://www.linkedin.com/in/harresonlima">LinkedIn</a>
 - 😄 Pronouns: He/Him
